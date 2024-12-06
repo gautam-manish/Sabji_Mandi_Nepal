@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:sabji_mandi_nepal/dashboard.dart';
 
-void main(){
-  return runApp(Home());
+
+void main() {
+  runApp(const Home());
 }
 
 class Home extends StatelessWidget {
